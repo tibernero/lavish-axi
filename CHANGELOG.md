@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.39](https://github.com/kunchenguid/lavish-axi/compare/lavish-axi-v0.1.38...lavish-axi-v0.1.39) (2026-07-10)
+
+
+### Bug Fixes
+
+* **chrome:** add conversation empty state ([#155](https://github.com/kunchenguid/lavish-axi/issues/155)) ([6c81509](https://github.com/kunchenguid/lavish-axi/commit/6c81509c098cafc646c0c3d5fd7e4f462cf30cb1))
+
 ## [0.1.38](https://github.com/kunchenguid/lavish-axi/compare/lavish-axi-v0.1.37...lavish-axi-v0.1.38) (2026-07-08)
 
 
